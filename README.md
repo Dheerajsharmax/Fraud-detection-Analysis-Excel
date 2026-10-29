@@ -1,8 +1,8 @@
 # Fraud Detection Analysis Using Microsoft Excel
 
 <img width="1208" height="397" alt="image" src="https://github.com/user-attachments/assets/f3b1066f-1888-4743-a745-333ac0308a58" />
-<img width="553" height="305" alt="image" src="https://github.com/user-attachments/assets/54ee0252-b3f9-4d54-aa41-c29d616c78af" />
-<img width="557" height="292" alt="image" src="https://github.com/user-attachments/assets/2d63cf70-058e-47d6-aa1c-b886c70fa8fb" />
+<img width="1127" height="300" alt="image" src="https://github.com/user-attachments/assets/ad39f135-7f3c-4445-82d4-22c7e71ff731" />
+<img width="887" height="642" alt="image" src="https://github.com/user-attachments/assets/71866dce-86f6-473e-9442-637dd408a0b4" />
 
 
 
